@@ -54,4 +54,22 @@ div {
     border-radius: 5px !important;
     color: #fff !important;
     justify-content: space-evenly !important;
+    margin: 5px!important;
+}
+.input-class{
+    width: 347px;
+    height: 50px;
+    border: 1px solid #E8E8E8;
+    margin: 5px;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.top-btn {
+    width: 100px !important;
+    height: 50px !important;
+    background: #2D3748 !important;
+    border-radius: 5px !important;
+    color: #fff !important;
+    justify-content: space-evenly !important;
+    margin: 5px!important;
 }
