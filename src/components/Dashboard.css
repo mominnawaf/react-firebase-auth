@@ -1,0 +1,39 @@
+.profile-card {
+    width: 50vh;
+    height: 50vh;
+    margin-top: 25vh;
+    flex-direction: column !important;
+    background: #FFFFFF !important;
+    box-shadow: 0px 4px 75px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 50px !important;
+    justify-content: center !important;
+}
+
+.profile-card>img {
+    border: 5px solid #F7DF1E;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+
+.profile-card>h1 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #252525;
+}
+.email-btn{
+    background: #26235C !important;
+border-radius: 10px !important;
+color: #FFFFFF !important;
+}
+.logout-btn{
+    width: 200px !important;
+    background: #2D3748 !important;
+    border-radius: 5px !important;
+    color: #fff !important;
+    margin-top: 5px !important;
+}
