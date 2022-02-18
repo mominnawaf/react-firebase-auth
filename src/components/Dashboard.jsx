@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import {Card, Button} from '@material-ui/core'
 import './Dashboard.css'
-import { CancelOutlined } from '@material-ui/icons'
 
 export default class Dashboard extends Component {
     constructor(props) {
